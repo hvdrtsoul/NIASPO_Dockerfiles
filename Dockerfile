@@ -1,1 +1,1 @@
-FROM drupal:8-apache
+FROM couchbase:community-7.0.0
