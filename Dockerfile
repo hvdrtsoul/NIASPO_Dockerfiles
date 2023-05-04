@@ -1,1 +1,1 @@
-FROM maven:3.8.3-jdk-11
+FROM drupal:8-apache
