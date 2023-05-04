@@ -1,4 +1,1 @@
-FROM jenkins/jenkins:lts
-USER root
-RUN apt-get update && apt-get install -y maven
-USER jenkins
+FROM maven:3.8.3-jdk-11
